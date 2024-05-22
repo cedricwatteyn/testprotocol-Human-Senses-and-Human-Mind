@@ -67,7 +67,7 @@ Kleur? Textuur? ...
 </ul> </br>
 
 ### DEEL 3: SIMULEREN VAN DE WERKING
-Wat zijn de spontane interacties van de eindgebruiker met prototype </br>
+Wat zijn de spontane interacties van de eindgebruiker met prototype? </br>
 Ik geef je nu alle producten mee (sensor, enkelband, horloge) die ons product samenstellen. Hier kun je nu voor we aan enkele scenario's beginnen al enkele zaken dat je onduidelijk of ... vindt aanwijzen. Hierbij zal ik zo min mogelijk proberen tussen te komen. Volg je gevoel, er zijn namelijk geen juiste of foute antwoorden. Ik zou je ook willen vragen om luidop na te denken, en zoveel mogelijk te vertellen wat je ziet en doet, wanneer je twijfelt of als er zaken onduidelijk zijn. </br>
 Indien hulp nodig? </br>
 <ul>
