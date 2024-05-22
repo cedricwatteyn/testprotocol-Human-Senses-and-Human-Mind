@@ -36,7 +36,7 @@ Het project waar we aan werken is een slimme loopgadget dat met behulp van techn
 Hierbij hebben we verschillende prototypes gemaakt en vandaag is het de bedoeling dat we hier eens jouw feedback op te horen krijgen. Op basis van jouw reacties zullen wij onze oplossing dan gaan aanpassen.</br>
 Belangrijk om hierbij te vermelden is dat er geen juiste of foute antwoorden zijn op de vragen die ik je het komende halfuur wil stellen. Hou je dus zeker niet in om te vertellen wat je denkt of ziet, om mee te geven als iets onduidelijk is, of ideeën of suggesties te delen om ons project nog te verbeteren. </br>
 
-kennismaking: </br>
+<ins>kennismaking:</ins> </br>
 Ik zou graag eerst wat meer zicht krijgen op de persoon die voor me zit. </br>
 <ul>
   <li>	Kan je me iets meer over jezelf vertellen?
@@ -50,13 +50,13 @@ wat is er zo leuk aan? Bepaalde motivaties?</li>
 ### DEEL 2: NODEN EN VERWACHTINGEN 
 Hierbij stel ik ons voorwerp voor in wat meer detail:</br>
 Met ons project willen we de kans op blessures bij lopers verminderen. Dit doen we door de schokken te meten op je lichaam aan de hand van een enkelband. Deze gemeten schokken worden dan vergeleken met andere data en hier worden dan conclusies uitgenomen Deze conclusies kunnen zijn dat je goed bezig bent of juist slecht bezig bent en blessuregevoelig aan het lopen bent. Indien je blessuregevoelig aan het lopen bent zal dit met je worden gecommuniceerd via het horloge. Deze heeft een display dat je laat weten dat je fout bezig bent en iets moet veranderen aan je loopstijl of aan je looppace. </br>
-Een beetje aftoetsen (zonder het product te tonen) </br>
+<ins>Een beetje aftoetsen (zonder het product te tonen)</ins> </br>
 <ul>
 <li>Wat is jouw eerste reactie op dit idee?</br>
 Wat vind je goed? Wat vind je minder goed?</li>
 <li>Wat verwacht je van het product?</br>
 Hoe verwacht je dat het product eruit zal zien?</li></ul>
-Eerste reacties op product </br>
+<ins>Eerste reacties op product</ins> </br>
 <ul>
   <li>Had je deze voorwerpen verwacht?
   </li>
@@ -78,7 +78,7 @@ De horloge en de enkelband</li>
 </ul> </br>
 
 ### DEEL 4: ENKELE SCENARIO'S
-**Scenario 1** </br>
+<ins>Scenario 1</ins> </br>
 _Je zit in je zetel en denkt kga een ke een toertje gaan lopen, dus je wandelt naar je kleerkast en ziet volgende zaken daar al klaarliggen, loopkledij, enkelband en horloge._ </br></br>
 (Geen sensor geven kijken of ze het door hebben dat ze die ook nodig hebben)</br>
 ook werken we hier met links en recht en plaatsen we deze eens op verschillende plaatsen om te kijken hoe ze het zouden aandoen moest het daar hangen. </br></br>
@@ -99,26 +99,26 @@ Waarop moeten we letten of wat willen we weten.</br>
 </ul>
 
 
-**Scenario 2**</br>
+<ins>Scenario 2</ins></br>
 _Je bent klaar met je kleren maar merkt plots dat het aan het regenen is, verander je iets?_ </br></br>
 Je moet niet perse iets veranderen je mag ook gerust zo verder gaan is namelijk gewoon een mogelijk scenario.</br></br>
 Wat doet de potentiële eindgebruiker?</br>
 
-**Scenario 3**</br>
+<ins>Scenario 3</ins></br>
 _Je hebt je kleren aan en vertrekt voor het lopen_</br></br>
 Hierbij laten we de potentiële eindgebruiker 1 min lopen, gewoon een beetje cirkels of ... op de plaats waar we testen. Dan zal er na 30 seconden een trilling worden doorgegeven naar de gebruiker.</br></br>
 Hoe reageert de loper?</br>
 Merkt hij het überhaupt op?</br>
 (onze wens/bedoeling is dat hij kijkt naar zijn horloge)</br>
 
-**Scenario 4**</br>
+<ins>Scenario 4</ins></br>
 _Na het krijgen van de trilling kijkt hij naar zijn horloge en ziet hij iets verschijnen op de display_</br></br>
 Actie: hierbij vragen we of hij even naar links wil kijken, dan leggen we om de beurt eens een verschillende display op het horloge. Dan chronometreren we hoelang het duurt voor de eindgebruiker om te weten wat de display mogelijks wil zeggen en welke ideeën hij had voor het juist was.</br></br>
 
-De verschillende displays: Hick’s Law</br></br>
-De verschillende displays: Fills’ law</br>
+De verschillende displays (kleine letters en cijfers <--> volledig display in 1 kleur): <ins>***Hick’s Law*** </ins> </br></br>
+De verschillende displays (letters en cijfers <--> kleuren kleuren en symbolen): <ins>***Fills' law***</ins> </br>
 
-**Scenario 5**</br>
+<ins>Scenario 5</ins></br>
 _Je bent klaar me lopen en komt heel bezweten thuis, wat doe je met je kleren, enkelband, ..._</br></br>
 Wat is het eerste dat je doet? (Denk hierbij gerust luidop na en je kan altijd vragen indien iets onduidelijk is)</br>  
 Probeer maar eens uit...</br>
@@ -139,7 +139,7 @@ Enkelband, horloge en sensor</li>
 ### DEEL 5: CONCLUSIE + EINDE
 Ik zou nu graag eens horen wat je van ons product vindt, en hoe je deze test ervaren hebt. </br>
 
-**Evaluatie**</br>
+<ins>Evaluatie</ins></br>
 <ul>
   <li>In het algemeen, wat vind je van dit idee?</br>
 Wat vind je er goed aan?</br>
@@ -160,7 +160,7 @@ Er waren verschillende lay-out's welke is je het best bijgebleven?
 
 
 
-**Gebruik & acceptatie**</br>
+<ins>Gebruik & acceptatie</ins></br>
 Ten slotte wil ik uiteraard graag weten of je hier ook echt gebruik van zou maken?</br>
 <ul>
   <li>Zou je hier gebruik van willen maken?</br>
@@ -173,7 +173,11 @@ Wat zou beter kunnen zodat je het zou overwegen?</li>
 
 
 
-ACHTERAF - bedanken deelnemer</br>
+ACHTERAF - bedanken deelnemer</br></br>
+![image](https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/assets/154930366/842872b9-aec2-404b-8458-992c91092c8b) </br>
+![image](https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/assets/154930366/15044950-6fb3-4715-a420-667a18866f90)
+
+
 
 
 
