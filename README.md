@@ -16,9 +16,9 @@ In deze concept test rond <b> The human mind </b> wordt een eerste prototype van
     <li>	Welke displays zijn het makkelijkst te begrijpen? </li>
     <li>Heeft de gebruiker liever kleur of tekst? </li>
   </ul> </br>
-<b> <u> Methode </u> </b> </br>
+<b> Methode  </b> </br>
 3 testen met personen in leeftijdscategorie 20-60 jarigen </br>
-<b>  <u> Practicalia  </u>  </b>  </br>
+<b>  Practicalia  </b>  </br>
 Periode: 20 tot 22 mei 2024 </br>
 Locatie: atletiek piste Kortrijk, huis Daan, Huis Cédric </br>
  <b>Overzicht & structuur protocol</b>  </br>
