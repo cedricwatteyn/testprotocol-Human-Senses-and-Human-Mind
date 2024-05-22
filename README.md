@@ -79,14 +79,14 @@ De horloge en de enkelband</li>
 
 ### DEEL 4: ENKELE SCENARIO'S
 **Scenario 1** </br>
-_Je zit in je zetel en denkt kga een ke een toertje gaan lopen, dus je wandelt naar je kleerkast en ziet volgende zaken daar al klaarliggen, loopkledij, enkelband en horloge._ </br>
+_Je zit in je zetel en denkt kga een ke een toertje gaan lopen, dus je wandelt naar je kleerkast en ziet volgende zaken daar al klaarliggen, loopkledij, enkelband en horloge._ </br></br>
 (Geen sensor geven kijken of ze het door hebben dat ze die ook nodig hebben)</br>
-ook werken we hier met links en recht en plaatsen we deze eens op verschillende plaatsen om te kijken hoe ze het zouden aandoen moest het daar hangen. </br>
+ook werken we hier met links en recht en plaatsen we deze eens op verschillende plaatsen om te kijken hoe ze het zouden aandoen moest het daar hangen. </br></br>
 Wat is het eerste dat je doet? (Denk hierbij gerust luidop na en je kan altijd vragen indien iets onduidelijk is)</br>
 Probeer maar eens uit...</br>
 Wat vind je hiervan?</br></br>
 Is dit voldoende duidelijk?
-Zou je hier gebruik van maken? Waarom wel/niet?</br>
+Zou je hier gebruik van maken? Waarom wel/niet?</br></br>
 Waarop moeten we letten of wat willen we weten.</br>
 <ul>
   <li>enkelband over of onder kous?</li>
@@ -100,32 +100,32 @@ Waarop moeten we letten of wat willen we weten.</br>
 
 
 **Scenario 2**</br>
-_Je bent klaar met je kleren maar merkt plots dat het aan het regenen is, verander je iets?_ </br>
-Je moet niet perse iets veranderen je mag ook gerust zo verder gaan is namelijk gewoon een mogelijk scenario.</br>
+_Je bent klaar met je kleren maar merkt plots dat het aan het regenen is, verander je iets?_ </br></br>
+Je moet niet perse iets veranderen je mag ook gerust zo verder gaan is namelijk gewoon een mogelijk scenario.</br></br>
 Wat doet de potentiële eindgebruiker?</br>
 
 **Scenario 3**</br>
-_Je hebt je kleren aan en vertrekt voor het lopen_</br>
-Hierbij laten we de potentiële eindgebruiker 1 min lopen, gewoon een beetje cirkels of ... op de plaats waar we testen. Dan zal er na 30 seconden een trilling worden doorgegeven naar de gebruiker.</br>
+_Je hebt je kleren aan en vertrekt voor het lopen_</br></br>
+Hierbij laten we de potentiële eindgebruiker 1 min lopen, gewoon een beetje cirkels of ... op de plaats waar we testen. Dan zal er na 30 seconden een trilling worden doorgegeven naar de gebruiker.</br></br>
 Hoe reageert de loper?</br>
 Merkt hij het überhaupt op?</br>
 (onze wens/bedoeling is dat hij kijkt naar zijn horloge)</br>
 
  
 **Scenario 4**</br>
-_Na het krijgen van de trilling kijkt hij naar zijn horloge en ziet hij iets verschijnen op de display_</br>
-Actie: hierbij vragen we of hij even naar links wil kijken, dan leggen we om de beurt eens een verschillende display op het horloge. Dan chronometreren we hoelang het duurt voor de eindgebruiker om te weten wat de display mogelijks wil zeggen en welke ideeën hij had voor het juist was.</br>
+_Na het krijgen van de trilling kijkt hij naar zijn horloge en ziet hij iets verschijnen op de display_</br></br>
+Actie: hierbij vragen we of hij even naar links wil kijken, dan leggen we om de beurt eens een verschillende display op het horloge. Dan chronometreren we hoelang het duurt voor de eindgebruiker om te weten wat de display mogelijks wil zeggen en welke ideeën hij had voor het juist was.</br></br>
 
-De verschillende displays: Hick’s Law</br>
+De verschillende displays: Hick’s Law</br></br>
 De verschillende displays: Fills’ law</br>
 
 **Scenario 5**</br>
-_Je bent klaar me lopen en komt heel bezweten thuis, wat doe je met je kleren, enkelband, ..._</br>
-Wat is het eerste dat je doet? (Denk hierbij gerust luidop na en je kan altijd vragen indien iets onduidelijk is)</br>
+_Je bent klaar me lopen en komt heel bezweten thuis, wat doe je met je kleren, enkelband, ..._</br></br>
+Wat is het eerste dat je doet? (Denk hierbij gerust luidop na en je kan altijd vragen indien iets onduidelijk is)</br>  
 Probeer maar eens uit...</br>
 Wat vind je hiervan?</br>
 Is dit voldoende duidelijk?</br>
-Zou je hier gebruik van maken? Waarom wel/niet?</br>
+Zou je hier gebruik van maken? Waarom wel/niet?</br></br>
 Wat is belangrijk?</br>
 <ul>
   <li>smijten ze sensor in vaatwas?
