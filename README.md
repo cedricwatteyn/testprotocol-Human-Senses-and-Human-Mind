@@ -111,7 +111,6 @@ Hoe reageert de loper?</br>
 Merkt hij het überhaupt op?</br>
 (onze wens/bedoeling is dat hij kijkt naar zijn horloge)</br>
 
- 
 **Scenario 4**</br>
 _Na het krijgen van de trilling kijkt hij naar zijn horloge en ziet hij iets verschijnen op de display_</br></br>
 Actie: hierbij vragen we of hij even naar links wil kijken, dan leggen we om de beurt eens een verschillende display op het horloge. Dan chronometreren we hoelang het duurt voor de eindgebruiker om te weten wat de display mogelijks wil zeggen en welke ideeën hij had voor het juist was.</br></br>
