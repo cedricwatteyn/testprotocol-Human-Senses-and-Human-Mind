@@ -1,4 +1,13 @@
 # testprotocol-Human-Senses-and-Human-Mind
+
+## Expert review/heuristic evaluation
+
+Deze test hebben we gedaan met Els Vanderhaeghe (49j) en Thore Demey (21j). Hierbij hebben we hun volgend document (zie foto's) meegegeven en de werking van ons product uitgelegd en ze sommige zaken ook eens laten dragen. Zo hebben we hun de enkelband laten dragen, maar ook eens de horloge met trillingen (en eens enkele trillingen laten 'proeven') en hebben we gewoon eens de display's getoond en gezegd voor wat de displays stonden.
+
+![tabel testen 1](https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/assets/157485350/fb12fe35-3be1-4dbd-a534-998e16253a22)
+
+![tabel testen 2](https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/assets/157485350/97be9ba4-8f1c-480d-8067-9074fb5eb845)
+
 ## Deelopdracht 4-5: Human mind and senses
 <b>Achtergrond en doel:</b> </br>
 
