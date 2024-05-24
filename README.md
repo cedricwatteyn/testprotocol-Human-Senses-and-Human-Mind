@@ -17,10 +17,13 @@ In deze concept test rond <b> The human mind </b> wordt een eerste prototype van
     <li>Heeft de gebruiker liever kleur of tekst? </li>
   </ul> </br>
 <b> Methode  </b> </br></br>
-3 testen met personen in leeftijdscategorie 20-60 jarigen </br></br>
+3 testen met personen in leeftijdscategorie 20-60 jarigen, hierbij houden we geen rekening met gehandicapten, super lange mensen, ... vandaar ongeveer 51,7%.
+
+![foto'tje leeftijd](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/676a97d0-bec6-41a9-b9b8-886f8f69c30f)
+<br>
 <b>  Practicalia  </b>  </br></br>
 Periode: 20 tot 22 mei 2024 </br>
-Locatie: atletiek piste Kortrijk, huis Daan, Huis Cédric </br>
+Locatie: atletiek piste Kortrijk, huis Daan, Huis Cédric </br><br>
  <b>Overzicht & structuur protocol</b>  </br>
  DEEL 1: inleiding </br>
 DEEL 2: noden en verwachtingen</br> 
